@@ -11,4 +11,12 @@ In this project we are going to use Spark to find out the count of each type of 
 
 + Concept Used :- RDD(Resilient Distributed Dataset) 
 
+---------------------------------------------------------------------------
 
+
+# 1. Book Analysis  
+
+In this project we are going to use Spark to find out different propeties of two books. The book and book1 dataset are two random datasets taken to analyse them and generate a report and some stats like "Number of words present in the book", "Common words in both the books", "Most frequent words", etc...
+
+
++ Concept Used :- RDD(Resilient Distributed Dataset) 
