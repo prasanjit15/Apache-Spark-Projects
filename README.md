@@ -14,9 +14,9 @@ In this project we are going to use Spark to find out the count of each type of 
 ---------------------------------------------------------------------------
 
 
-# 1. Book Analysis  
+# 2. Book Analysis  
 
-In this project we are going to use Spark to find out different propeties of two books. The book and book1 dataset are two random datasets taken to analyse them and generate a report and some stats like "Number of words present in the book", "Common words in both the books", "Most frequent words", etc...
+In this project we are going to use Spark to find out different propeties of two books. The book and book1 dataset are two random datasets taken to analyse them and generate a report and some stats like "Number of words present in the book", "Common words in both the books", "Most frequent words", etc... The dataset/book named as "book" and "book1" are present in the dataset folder present in this repo. 
 
 
 + Concept Used :- RDD(Resilient Distributed Dataset) 
