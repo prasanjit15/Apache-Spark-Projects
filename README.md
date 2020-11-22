@@ -20,3 +20,12 @@ In this project we are going to use Spark to find out different propeties of two
 
 
 + Concept Used :- RDD(Resilient Distributed Dataset) 
+
+--------------------------------------------------------------------------------
+
+# 3. Airbnb Average Price Analyzer  
+
+In this project we are going to use Spark to find out different insights about the Airbnb Dataset. The taken dataset is the 2019 Airbnb NYC dataset. I used them to analyse and generate a report and some stats like "Price per region,", "The maximum and minimum amount of revenue per region", etc... The dataset named as "AB_NYC_2019.csv" is present in the "Airbnb Average Price Analyzer" folder along with the .ipynb file in this repo. 
+
+
++ Concept Used :- SparkSQL, Spark Dataframe
